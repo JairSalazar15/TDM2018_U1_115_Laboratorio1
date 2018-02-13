@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TDM2018_U1_1.1.5_Laboratorio1</string>
+    <string-array name="lista">
+        <item>onCreate</item>
+        <item>onStart</item>
+        <item>onResume</item>
+        <item>onPaused</item>
+        <item>onStoped</item>
+        <item>onDestroyed</item>
+    </string-array>
+
+</resources>
